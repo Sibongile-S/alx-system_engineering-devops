@@ -1,1 +1,1 @@
-#!/bin/bash quote> su Betty
+#!/bin/bash\necho Betty
